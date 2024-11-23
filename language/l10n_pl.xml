@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <l10n>
 	<texts>
-		<text name="menu_LUMBERJACK_TITLE" text="LumberJack"/>
-		<text name="menu_TOGGLE_STRENGTH" text="Super Strength"/>
-		<text name="input_LUMBERJACK_STRENGTH" text="Super Strength"/>
-		<text name="text_MASS" text="Mass"/>
-		<text name="text_TONNE" text="tonne"/>
+		<text name="menu_LUMBERJACK_TITLE" text="Drwal"/>
+		<text name="menu_TOGGLE_STRENGTH" text="Supersiła"/>
+		<text name="input_LUMBERJACK_STRENGTH" text="Supersiła"/>
+		<text name="text_MASS" text="Masa"/>
+		<text name="text_TONNE" text="t"/>
 		<text name="text_KG" text="kg"/>
 		<text name="text_METRE" text="m"/>
 		<text name="text_SECOND" text="s"/>
-		<text name="text_INFINITE" text="Infinite"/>
+		<text name="text_INFINITE" text="nieskończony"/>
 		
-		<text name="permission_lumberJack_superSpeed" text="LumberJack Speed"/>
-		<text name="permission_lumberJack_superStrength" text="LumberJack Strength"/>
-		<text name="permission_lumberJack_chainsawSettings" text="LumberJack Chainsaw"/>
+		<text name="permission_lumberJack_superSpeed" text="Drwal: Prędkość"/>
+		<text name="permission_lumberJack_superStrength" text="Drwal: Siła"/>
+		<text name="permission_lumberJack_chainsawSettings" text="Drwal: Piła"/>
 				
-		<text name="setting_lumberJack_cutAnywhere" text="Cut Anywhere"/>
-		<text name="toolTip_lumberJack_cutAnywhere" text="The player can use a chainsaw anywhere on the map."/>
+		<text name="setting_lumberJack_cutAnywhere" text="Ścinaj wszędzie"/>
+		<text name="toolTip_lumberJack_cutAnywhere" text="Gracz może korzystać z piły łańcuchowej w dowolnym miejscu na mapie."/>
 		
-		<text name="setting_lumberJack_createWoodchips" text="Create Woodchips"/>
-		<text name="toolTip_lumberJack_createWoodchips" text="Woodchips are created when cutting trees or grinding stumps with a chainsaw."/>
+		<text name="setting_lumberJack_createWoodchips" text="Twórz zrębki"/>
+		<text name="toolTip_lumberJack_createWoodchips" text="W wyniku ścinania drzew lub rozdrabniania pni piłą łańcuchową będą powstawać zrębki."/>
 		
-		<text name="setting_lumberJack_maxCutDistance" text="Chainsaw Cut Distance"/>
-		<text name="toolTip_lumberJack_maxCutDistance" text="Maximum distance that the player can reach to cut with a chainsaw."/>
+		<text name="setting_lumberJack_maxCutDistance" text="Odległość cięcia piłą"/>
+		<text name="toolTip_lumberJack_maxCutDistance" text="Maksymalna odległość, z jakiej gracz może sięgnąć, by móc ciąć piłą łańcuchową."/>
 		
-		<text name="setting_lumberJack_defaultCutDuration" text="Chainsaw Cut Duration"/>
-		<text name="toolTip_lumberJack_defaultCutDuration" text="Number of seconds for a standard cut with the chainsaw."/>
+		<text name="setting_lumberJack_defaultCutDuration" text="Czas cięcia piłą"/>
+		<text name="toolTip_lumberJack_defaultCutDuration" text="Liczba sekund standardowego cięcia piłą łańcuchową."/>
 		
-		<text name="setting_lumberJack_superStrengthValue" text="Super Strength Value"/>
-		<text name="toolTip_lumberJack_superStrengthValue" text="Maximum weight that can be lifted when super strength is active."/>
+		<text name="setting_lumberJack_superStrengthValue" text="Wartość supersiły"/>
+		<text name="toolTip_lumberJack_superStrengthValue" text="Maksymalny ciężar, jaki można podnieść, kiedy włączona jest supersiła."/>
 		
-		<text name="setting_lumberJack_normalStrengthValue" text="Normal Strength Value"/>
-		<text name="toolTip_lumberJack_normalStrengthValue" text="Maximum weight that can be lifted by the player with normal strength."/>
+		<text name="setting_lumberJack_normalStrengthValue" text="Wartość normalnej siły"/>
+		<text name="toolTip_lumberJack_normalStrengthValue" text="Maksymalny ciężar, jaki może podnieść gracz przy użyciu normalnej siły."/>
 		
-		<text name="setting_lumberJack_superDistanceValue" text="Super Strength Distance"/>
-		<text name="toolTip_lumberJack_superDistanceValue" text="Distance that player can reach to lift objects when super strength is active."/>
+		<text name="setting_lumberJack_superDistanceValue" text="Odległość supersiły"/>
+		<text name="toolTip_lumberJack_superDistanceValue" text="Odległość, z jakiej gracz może sięgnąć, by podnieść obiekty, kiedy włączona jest supersiła."/>
 		
 		<text name="setting_lumberJack_normalDistanceValue" text="Normal Strength Distance"/>
-		<text name="toolTip_lumberJack_normalDistanceValue" text="Distance that player can reach to lift objects with normal strength."/>
+		<text name="toolTip_lumberJack_normalDistanceValue" text="Odległość, z jakiej gracz może sięgnąć, by podnieść obiekty przy użyciu normalnej siły."/>
 		
-		<text name="setting_lumberJack_maxWalkingSpeed" text="Walking Speed"/>
-		<text name="toolTip_lumberJack_maxWalkingSpeed" text="The normal walking speed of the player."/>
+		<text name="setting_lumberJack_maxWalkingSpeed" text="Prędkość chodu"/>
+		<text name="toolTip_lumberJack_maxWalkingSpeed" text="Normalna prędkość chodu gracza."/>
 		
-		<text name="setting_lumberJack_maxRunningSpeed" text="Running Speed"/>
-		<text name="toolTip_lumberJack_maxRunningSpeed" text="The normal running speed of the player."/>
+		<text name="setting_lumberJack_maxRunningSpeed" text="Prędkość biegu"/>
+		<text name="toolTip_lumberJack_maxRunningSpeed" text="Normalna prędkość biegu gracza."/>
 		
-		<text name="setting_lumberJack_reduceSideSpeed" text="Reduce Side Speed"/>
-		<text name="toolTip_lumberJack_reduceSideSpeed" text="Reduce the speed of the player when side stepping."/>
+		<text name="setting_lumberJack_reduceSideSpeed" text="Ogranicz prędkość na boki"/>
+		<text name="toolTip_lumberJack_reduceSideSpeed" text="Zmniejsza prędkość gracza podczas wykonywania kroków na boki."/>
 		
-		<text name="setting_lumberJack_destroyFoliageSize" text="Destroy Foliage Size"/>
-		<text name="toolTip_lumberJack_destroyFoliageSize" text="The size of the detection area for destruction of foliage and bushes."/>
+		<text name="setting_lumberJack_destroyFoliageSize" text="Rozmiar okrzesywania"/>
+		<text name="toolTip_lumberJack_destroyFoliageSize" text="Rozmiar obszaru wykrywania okrzesywania."/>
 		
-		<text name="setting_lumberJack_showDebug" text="Show Debugging Display"/>
-		<text name="toolTip_lumberJack_showDebug" text="Print debugging text and overlay for detection area."/>
+		<text name="setting_lumberJack_showDebug" text="Pokaż ekran debugowania"/>
+		<text name="toolTip_lumberJack_showDebug" text="Wyświetla tekst debugowania i nakładkę dla obszaru wykrywania."/>
 		
     </texts>
 </l10n>
